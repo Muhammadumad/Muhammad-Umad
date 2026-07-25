@@ -18,9 +18,19 @@
 
 ## 👋 Hi, I'm Engr. Muhammad Umad
 
-I am a **Backend & Systems Engineer** pursuing Computer Systems Engineering at MUET. Through **UmadTech**, I help businesses, startups, and founders design, build, and optimize high-performance backends, real-time architectures, and custom AI API integrations.
+I am a **Backend & Systems Engineer** pursuing Computer Systems Engineering at MUET. Through **UmadTech**, I help businesses, startups, and founders design, build, and optimize high-performance backends, full-stack architectures, and custom AI integrations.
 
 > ⚡ **Core Engineering Philosophy:** Clean code architecture, strict data integrity, fast response times, and production-grade reliability.
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Muhammadumad&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Muhammad Umad Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -29,17 +39,47 @@ I am a **Backend & Systems Engineer** pursuing Computer Systems Engineering at M
 | Service | Technologies / Specialties |
 | :--- | :--- |
 | **Custom Backend & API Development** | REST APIs, GraphQL, Microservices, JWT/OAuth2 Auth |
+| **Full-Stack Web Development** | Scalable SPAs, Server-Side Rendering, Dashboards (`React`, `Next.js`, `Laravel`) |
 | **Real-Time Systems & WebSockets** | Live Messaging, Notifications, Presence Tracking (`Django Channels`, `Redis`) |
 | **AI Integration & LLM Workflows** | Structured JSON Outputs, Prompt Pipelines, Async Tasks (`Celery`, `Gemini`, `Claude`) |
 | **Database Design & Query Tuning** | Database Normalization, Indexing, Query Optimization (`PostgreSQL`, `MySQL`) |
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## 🛠️ Comprehensive Tech Stack
 
+### 💻 **Programming Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,laravel,postgres,redis,docker,js,react,tailwind,bash,git,linux" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,php,cpp,java,bash" alt="Languages" />
+  </a>
+</p>
+
+### ⚙️ **Backend & Async Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,express,nodejs" alt="Backend Technologies" />
+  </a>
+</p>
+
+### 🌐 **Frontend & UI Technologies**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,html,css,vite" alt="Frontend Technologies" />
+  </a>
+</p>
+
+### 🗄️ **Databases & Caching**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase" alt="Databases" />
+  </a>
+</p>
+
+### 🛠️ **DevOps, Tools & Infrastructure**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,postman,linux,vercel,netlify" alt="DevOps and Tools" />
   </a>
 </p>
 
@@ -81,21 +121,30 @@ I am a **Backend & Systems Engineer** pursuing Computer Systems Engineering at M
 
 ---
 
+## 📊 Live GitHub Analytics & Activity Metrics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Muhammadumad&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="Muhammad Umad's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Muhammadumad&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadumad&theme=tokyonight&background=00000000&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Heatmap
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadumad&bg_color=00000000&color=2ea043&line=2ea043&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
 ## 🛡️ Engineering Standards & Quality
 
 When working on client projects or internal systems, I strictly adhere to:
 * ✅ **Test-Driven Reliability:** Writing automated test suites (PyTest / Django Test Framework) to prevent regressions.
 * ✅ **Clean & Documented APIs:** OpenAPI / Swagger documentation provided for every endpoint.
 * ✅ **Optimized Database Queries:** Preventing N+1 query problems using eager loading and indexing.
-
----
-
-## 📈 Engineering Activity & Impact
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Muhammadumad&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="Muhammad Umad's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Muhammadumad&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</p>
 
 ---
 
